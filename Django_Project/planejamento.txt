@@ -1,0 +1,17 @@
+-Homepage
+-Login e Cadastro
+    -Nome
+    -Email
+    -Senha
+    -Filmes já vistos
+-Filmes
+    -Thumb
+    -Categoria
+    -Titulo
+    -Descrição
+    -Qtd Views
+    -Data de Criação
+    -Episodios
+        -Videos
+        -Titulo
+-Barra de Navegação
