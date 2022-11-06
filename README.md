@@ -1,2 +1,2 @@
 # Django_Project
-Primeiro site criado utilizando o Framework de Python Django
+Primeiro site criado utilizando o Framework de Python - Django
